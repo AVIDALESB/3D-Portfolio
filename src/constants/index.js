@@ -116,55 +116,54 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "R2M Solution Spain",
-    icon: starbucks,
+    title: "Data-driven Stategic Communication Intern",
+    company_name: "R2M Solution Spain, Madrid España",
+    icon: r2m,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "January 2025 - Current",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Manages digital strategy execution through social media management, web design, and audiovisual content creation.",
+      "Skilled in data-driven decision-making using social media analytics and predictive modeling code.",
+      "Has proven success in enhancing online presence, creating compelling multimedia content, and implementing technical solutions that boost digital performance and user engagement across platforms.",
+      "Participating in design reviews and providing constructive feedback to other designers.",
     ],
   },
   {
-    title: "React Native Developer",
+    title: "CO-Founder and Director",
     company_name: "Loyify",
-    icon: tesla,
+    icon: loyify,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "March 2024 - Current",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "CRM: Expertise in customer relationship management, tracking interactions, and data analysis.",
+      "Creating responsive websites with focus on user experience and functionality.",
+      "Design and execution of targeted email campaigns with performance tracking.",
+      "Participating in code reviews and providing constructive feedback to other developerImplementation of e-commerce strategies and conversion optimization.",
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Ayuntamiento de Culiacán",
-    icon: shopify,
+    title: "Technological Innovation and Digital Strategiies Director",
+    company_name: "Ayuntamiento de Culiacán Sinaloa, México",
+    icon: ayuntamiento,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "June 2022 - Marh 2024",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "System maintenance, development, and technical support for government digital services.",
+      "Design and implementation of solutions to enhance government service delivery.",
+      "Project management of technological initiatives and platform updates.",
+      "Tecnnological support and updates for digital platforms.",
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
+    title: "UX Technology User Experience Director",
+    company_name: "Government of Sinaloa State",
+    icon: gobierno,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Jan 2022 - June 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Audiovisual Content Strategy & Development: Lead the creation, optimization, and management of engaging multimedia content.",
+      "Digital Experience Enhancement: Strategically design and implement user-centric web solutions, focusing on accessibility, navigation, and overall user satisfaction.",
+      "Technical Process Optimization: Develop and deploy innovative technological solutions to streamline operations, enhance efficiency, and elevate the quality of citizen services through digital transformation.",
     ],
   },
 ];
@@ -172,7 +171,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Andrea proved me wrong.",
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
@@ -180,7 +179,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "I've never met a web developer who truly cares about their clients' success like Andrea does.",
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
@@ -188,7 +187,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Andrea optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
