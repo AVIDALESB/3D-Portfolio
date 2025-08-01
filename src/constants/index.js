@@ -200,7 +200,7 @@ const projects = [
   {
     name: "Convenciones Berkley",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that provides Berkley Insurance employees with access to exclusive travel incentives, including trip itineraries, restaurant recommendations, excursion tips, and a private blog for sharing travel photos and experiences.",
     tags: [
       {
         name: "react",
