@@ -172,27 +172,27 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Andrea proved me wrong.",
+      "Key role in the restructuring and improvement of the DIF Culiacán website, resulting in a more streamlined, accessible, and transparent.",
     name: "Aracely Contreras",
-    designation: "Legal",
+    designation: "Head of the Transparency Department",
     company: "DIF Culiacán",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    image: "https://drive.google.com/file/d/1VWsl3mK6HIO8RyDugCD6WlAR46HSLp-K/view?usp=sharing",
   },
   {
     testimonial:
       "I've never met a web developer who truly cares about their clients' success like Andrea does.",
-    name: "Julio Lopez",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    name: "JL",
+    designation: "CEO",
+    company: "Corp",
+    image: "https://drive.google.com/file/d/1VWsl3mK6HIO8RyDugCD6WlAR46HSLp-K/view?usp=sharing",
   },
   {
     testimonial:
       "After Andrea optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Ana Rodriguez",
-    designation: "CTO",
+    name: "AR",
+    designation: "CEO",
     company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    image: "https://drive.google.com/file/d/1VWsl3mK6HIO8RyDugCD6WlAR46HSLp-K/view?usp=sharing",
   },
 ];
 
