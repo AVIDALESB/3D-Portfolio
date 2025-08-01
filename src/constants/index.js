@@ -242,7 +242,7 @@ const projects = [
   {
     name: "Retail Store Analysis",
     description:
-      "predictive data analysis to help the owner of the Alura Store chain decide which store to sell to start a new business. The goal is to evaluate the performance of four stores, identify the least efficient one using key metrics, and provide a data-driven recommendation.",
+      "Predictive data analysis to help the owner of the Alura Store chain decide which store to sell to start a new business. The goal is to evaluate the performance of four stores, identify the least efficient one using key metrics, and provide a data-driven recommendation.",
     tags: [
       {
         name: "Python",
