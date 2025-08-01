@@ -52,7 +52,7 @@ const About = () => {
         decision-making using social media analytics and predictive modeling code. 
         I have proven success in enhancing online presence, creating compelling 
         multimedia content, and implementing technical solutions that boost digital
-        performance and user engagement across platforms."
+        performance and user engagement across platforms.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

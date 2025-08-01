@@ -8,11 +8,11 @@ import {
   html,
   css,
   reactjs,
-  redux,
-  tailwind,
+  git,
   nodejs,
   mongodb,
-  git,
+  pr,
+  ae,
   figma,
   docker,
   r2m,
@@ -50,7 +50,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Data Analyst",
     icon: backend,
   },
   {
@@ -81,12 +81,12 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "pr",
+    icon: pr,
   },
   {
-    name: "Tailwind CSS",
-    icon: tailwind,
+    name: "ae",
+    icon: ae,
   },
   {
     name: "Node JS",
@@ -135,7 +135,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "March 2024 - Current",
     points: [
-      "CRM:Expertise in customer relationship management, tracking interactions, and data analysis.",
+      "CRM: Expertise in customer relationship management, tracking interactions, and data analysis.",
       "Creating responsive websites with focus on user experience and functionality.",
       "Audiovisual content Strategy & Development.",
       "Design and execution of targeted email campaigns with performance tracking.",

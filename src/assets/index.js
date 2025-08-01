@@ -20,6 +20,11 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import ae from "./tech/ae.png";
+import ai from "./tech/ai.png";
+import pr from "./tech/pr.png";
+import ps from "./tech/ps.png";
+
 
 import ayuntamiento from "./company/ayuntamiento.webp";
 import loyify from "./company/loyify.png";
@@ -61,4 +66,8 @@ export {
   jobit,
   tripguide,
   convencionesberkley,
+  ae,
+  ai,
+  pr,
+  ps
 };
