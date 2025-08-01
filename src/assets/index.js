@@ -32,7 +32,7 @@ import r2m from "./company/r2m.png";
 import gobierno from "./company/gobierno.png";
 
 import carrent from "./carrent.png";
-import jobit from "./jobit.png";
+import jobit from "./jobit.jpeg";
 import tripguide from "./tripguide.png";
 import convencionesberkley from "./convencionesberkley.png";
 
@@ -69,5 +69,5 @@ export {
   ae,
   ai,
   pr,
-  ps
+  ps,
 };

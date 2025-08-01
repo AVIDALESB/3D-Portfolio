@@ -173,15 +173,15 @@ const testimonials = [
   {
     testimonial:
       "I thought it was impossible to make a website as beautiful as our product, but Andrea proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
+    name: "Aracely Contreras",
+    designation: "Legal",
+    company: "DIF Culiacán",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
       "I've never met a web developer who truly cares about their clients' success like Andrea does.",
-    name: "Chris Brown",
+    name: "Julio Lopez",
     designation: "COO",
     company: "DEF Corp",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
@@ -189,7 +189,7 @@ const testimonials = [
   {
     testimonial:
       "After Andrea optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
+    name: "Ana Rodriguez",
     designation: "CTO",
     company: "456 Enterprises",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
@@ -203,7 +203,7 @@ const projects = [
       "Web-based platform that provides Berkley Insurance employees with access to exclusive travel incentives, including trip itineraries, restaurant recommendations, excursion tips, and a private blog for sharing travel photos and experiences.",
     tags: [
       {
-        name: "react",
+        name: "Wordpress",
         color: "blue-text-gradient",
       },
       {
@@ -211,7 +211,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "loyify",
         color: "pink-text-gradient",
       },
     ],
@@ -219,46 +219,46 @@ const projects = [
     source_code_link: "https://convencionesberkley.com/",
   },
   {
-    name: "Job IT",
+    name: "Video Politics REEL",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Production and Post-production of audiovisual content for 2021 politics campaign in Sinaloa, México.",
     tags: [
       {
-        name: "react",
+        name: "Premiere",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "AfterEffects",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Photoshop",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://www.youtube.com/watch?v=MsydPjM8puM",
   },
   {
-    name: "Trip Guide",
+    name: "Retail Store Analysis",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "predictive data analysis to help the owner of the Alura Store chain decide which store to sell to start a new business. The goal is to evaluate the performance of four stores, identify the least efficient one using key metrics, and provide a data-driven recommendation.",
     tags: [
       {
-        name: "nextjs",
+        name: "Python",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Pandas",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Matplotlib",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/AVIDALESB/Analisis-Tiendas",
   },
 ];
 
