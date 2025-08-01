@@ -135,7 +135,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "March 2024 - Current",
     points: [
-      "CRM: Expertise in customer relationship management, tracking interactions, and data analysis.",
+      "CRM:Expertise in customer relationship management, tracking interactions, and data analysis.",
       "Creating responsive websites with focus on user experience and functionality.",
       "Audiovisual content Strategy & Development.",
       "Design and execution of targeted email campaigns with performance tracking.",
