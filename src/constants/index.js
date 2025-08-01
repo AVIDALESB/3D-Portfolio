@@ -15,12 +15,12 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
-  carrent,
+  r2m,
+  loyify,
+  ayuntamiento,
+  gobierno,
   jobit,
+  convencionesberkley,
   tripguide,
   threejs,
 } from "../assets";
@@ -116,10 +116,10 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Data-driven Stategic Communication Intern",
+    title: "Data-driven Stategic Communication",
     company_name: "R2M Solution Spain, Madrid España",
     icon: r2m,
-    iconBg: "#383E56",
+    iconBg: "#E6DEDD",
     date: "January 2025 - Current",
     points: [
       "Manages digital strategy execution through social media management, web design, and audiovisual content creation.",
@@ -137,6 +137,7 @@ const experiences = [
     points: [
       "CRM: Expertise in customer relationship management, tracking interactions, and data analysis.",
       "Creating responsive websites with focus on user experience and functionality.",
+      "Audiovisual content Strategy & Development.",
       "Design and execution of targeted email campaigns with performance tracking.",
       "Participating in code reviews and providing constructive feedback to other developerImplementation of e-commerce strategies and conversion optimization.",
     ],
@@ -145,7 +146,7 @@ const experiences = [
     title: "Technological Innovation and Digital Strategiies Director",
     company_name: "Ayuntamiento de Culiacán Sinaloa, México",
     icon: ayuntamiento,
-    iconBg: "#383E56",
+    iconBg: "#E6DEDD",
     date: "June 2022 - Marh 2024",
     points: [
       "System maintenance, development, and technical support for government digital services.",
@@ -197,7 +198,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Convenciones Berkley",
     description:
       "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
@@ -214,8 +215,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: convencionesberkley,
+    source_code_link: "https://convencionesberkley.com/",
   },
   {
     name: "Job IT",
