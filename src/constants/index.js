@@ -260,7 +260,16 @@ const projects = [
     image: tripguide,
     source_code_link: "https://github.com/AVIDALESB/Analisis-Tiendas",
   },
-  
+  {
+    name: "Nuevo Proyecto",
+    description: "Descripción breve de mi nuevo proyecto.",
+    tags: [
+      { name: "React", color: "blue-text-gradient" },
+      { name: "Node.js", color: "green-text-gradient" },
+    ],
+    image: null,
+    source_code_link: "https://github.com/usuario/nuevo-proyecto",
+  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
