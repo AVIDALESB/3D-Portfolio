@@ -143,7 +143,7 @@ const experiences = [
     ],
   },
   {
-    title: "Technological Innovation and Digital Strategiies Director",
+    title: "Technological Innovation and Digital Strategies Director",
     company_name: "Ayuntamiento de Culiacán Sinaloa, México",
     icon: ayuntamiento,
     iconBg: "#E6DEDD",
@@ -260,6 +260,7 @@ const projects = [
     image: tripguide,
     source_code_link: "https://github.com/AVIDALESB/Analisis-Tiendas",
   },
+  
 ];
 
 export { services, technologies, experiences, testimonials, projects };
